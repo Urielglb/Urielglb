@@ -1,7 +1,7 @@
 ### Hola,¡Bienvenidos a mi github! :cat: :octopus:
 
-- 🔭 I’m currently working as a freelancer focused on web development  
-- 🌱 I’m currently learning web development and soon mobile
+- 🔭 I’m currently working as a freelancer focused on web development
+- 🌱 I’m currently learning more of web development and soon mobile development
 - 👯 I’m looking to collaborate on a hackathon 
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me about frontend development

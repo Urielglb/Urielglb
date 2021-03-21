@@ -6,5 +6,6 @@
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me about frontend development
 - 📫 How to reach me: Find me in [LinkedIn](https://mx.linkedin.com/in/uriel-garc%C3%ADa-luna-bobadilla-10aa641a3),[Twitter](https://twitter.com/Leiru06), contact me through mail at uriel.owl06@gmail.com or in Telegram as @uriel_06
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Urielglb)](https://github.com/Urielglb/github-readme-stats)
 <!--
 **Urielglb/Urielglb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

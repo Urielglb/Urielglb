@@ -1,6 +1,6 @@
 ### Hola,¡Bienvenidos a mi github! :cat: :octopus:
 ![OctoUirel](OctoUriel.jpg)
-- 🔭 I’m currently working as a Front-end developer at SieNetworks
+- 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning more of web development and soon mobile development
 - 👯 I’m looking to collaborate on a hackathon 
 - 🤔 I’m looking for help with backend development
